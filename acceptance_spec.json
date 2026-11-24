@@ -1,0 +1,8 @@
+{
+  "parts": ["PN-1041", "PN-2210"],
+  "first_pass_yield": 0.95,
+  "cycle_time_s": 12.0,
+  "continuous_run_s": 14400,
+  "changeover_s": 600,
+  "confidence": 0.95
+}
